@@ -16,5 +16,7 @@ p {
   font-family: 'Brush Script MT', cursive;
 }
 #poem{
-  color: #blue;
+  background-color: black;
+  color: white;
+
 }

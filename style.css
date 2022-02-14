@@ -2,7 +2,7 @@ body {
   font-family: 'Courier New', monospace;
 }
 h1 {
-color:#0e451d; 
+color:#0e451d;
 }
 h1 {
   background-color
@@ -11,4 +11,7 @@ h1 {
 h2 {
   background-color
 : #acb543;
+}
+p {
+  font-family: 'Brush Script MT', cursive;
 }
